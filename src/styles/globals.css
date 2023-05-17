@@ -1,0 +1,136 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* @font-face {
+  font-family: 'Arial Black';
+  src: url('/fonts/ari-black.ttf') format('truetype');
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('/fonts/arial.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial Bold';
+  src: url('/fonts/arial-bold.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Samsung Sharp Sans';
+  src: url('/fonts/samsungsharpsans-bold.otf') format('opentype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato Black';
+  src: url('/fonts/Lato-Black.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato Black Italic';
+  src: url('/fonts/Lato-BlackItalic.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato Bold';
+  src: url('/fonts/Lato-Bold.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato Bold Italic';
+  src: url('/fonts/Lato-BoldItalic.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato Italic';
+  src: url('/fonts/Lato-Italic.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato Light';
+  src: url('/fonts/Lato-Light.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato Light Italic';
+  src: url('/fonts/Lato-LightItalic.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('/fonts/Lato-Regular.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato Thin';
+  src: url('/fonts/Lato-Thin.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato Thin Italic';
+  src: url('/fonts/Lato-ThinItalic.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+} */
+
+/* @font-face {
+  font-family: 'SF Pro Display Black Italic';
+  src: url('/fonts/SFPRODISPLAYBLACKITALIC.otf') format('opentype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('/fonts/SFPRODISPLAYBOLD.otf') format('opentype');
+  font-weight: 100 900;
+  font-display: swap;
+} */
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('/fonts/SFPRODISPLAYREGULAR.otf') format('opentype'),
+    url('/fonts/SFPRODISPLAYBOLD.otf') format('opentype'),
+    url('/fonts/SFPRODISPLAYBLACKITALIC.otf') format('opentype');
+  font-weight: 100 900;
+  font-display: swap;
+}
